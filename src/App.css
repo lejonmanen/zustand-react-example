@@ -1,0 +1,8 @@
+.contact-list {
+  border: 2px dotted hotpink;
+  font-family: 'Comic Sans', 'Comic Sans MS';
+}
+.contact-list p:first-of-type {
+  color: teal;
+  font-weight: bold;
+}
